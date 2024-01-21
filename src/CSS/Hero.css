@@ -1,0 +1,22 @@
+.hero_body {
+    background-color: #F7F7F7;
+}
+
+.gradiant_text {
+    background: linear-gradient(to right, #FEA444 0%, #FC6539 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    width: auto;
+}
+
+.hand_img{
+    width: auto;
+    height: auto;
+}
+
+.hero_title{
+    display: inline-flex;
+    flex-direction: row;
+    background-color: aqua;
+}
